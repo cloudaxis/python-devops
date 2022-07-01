@@ -12,4 +12,4 @@ def meal(beverage):
     if chosen_fruit == "apple":
         return f"Your meal is an {chosen_fruit} and {beverage}"
     else:
-        return "your meal is dogfood"
+        return f"your meal is dogfood with {beverage}"
